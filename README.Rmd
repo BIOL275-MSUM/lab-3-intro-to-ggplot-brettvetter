@@ -1,6 +1,6 @@
 ---
 title: "Lab 3: Introduction to ggplot"
-author: "___"
+author: "Brett Vetter"
 date: "`r format(Sys.Date())`"
 output: github_document
 ---
@@ -13,13 +13,18 @@ Welcome to my Lab 2 repository for Quantitative Biology BIOL 275 at MSUM.
 
 The objectives of this lab are:
 
-- ___
-- ___
+- Use the layered grammar of graphics:
+  - Create a blank graph using the ggplot() function
+  - Add geometric objects to a graph
+  - Define an aesthetic mapping for a graph
+  - Add labels to a graph
+  - Fix some common styling
 
 ## Repository contents
 
 The repository contains the following scripts:
 
 - [Lab Report 3](lab-report.md)
-- ___
+- [Tutorial](tutorial-walkthrough.R)
+- [Firefly/bird data](Firefly data.R)
 
